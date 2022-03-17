@@ -1,5 +1,5 @@
 {
-  "homepage": "https://xjuliang.github.io/Weather-Page",
+  "homepage": "http://xjuliang.github.io/Weather-Page",
   "name": "09-react-routing",
   "version": "1.0.0",
   "dependencies": {
@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
