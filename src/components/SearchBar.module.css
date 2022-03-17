@@ -1,0 +1,32 @@
+.bar {
+    display: flex;
+    justify-content:center;
+    padding: 15px;
+}
+
+.btn {
+    background-color: rgb(80, 80, 80);
+    color: rgb(255, 255, 255);
+    border: none;
+    margin-left: 10px;
+    border-radius:2px;
+    padding: 10px 15px 10px 15px;
+    transition: all 0.5s;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: rgb(139, 139, 139);
+    color: rgb(255, 255, 255);
+}
+
+.input {
+    color: rgb(100, 100, 100);
+    border: none;
+    border-bottom:1px solid rgb(0, 0, 0);
+    outline:0px;
+}
+
+
+
+
