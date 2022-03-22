@@ -6,7 +6,7 @@ export default function About() {
     <div className={styles.container}>
       <h3>About</h3>
       <p>Weather App is a simple page that help us to know the weather around the world.</p>
-      <p>Developed by Julian Gonzalez</p>
+      <p>Developed by Julian Gonzalez.</p>
     </div>
   );
 }
